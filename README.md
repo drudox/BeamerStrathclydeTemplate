@@ -1,0 +1,2 @@
+# BeamerStrathclydeTemplate
+# BeamerStrathclydeTemplate
